@@ -1,0 +1,63 @@
+*{padding: 0;
+  margin: 0 ;}
+ 
+.cabecalho{background-color: rgb(75, 75, 163);
+           color: white;
+           display: flex;
+           justify-content: space-around;
+           align-items: center;
+           padding: 24px 0;}
+ 
+.cabecalho-imagem{width: 10%;}
+ 
+.cabecalho-lista-item{display: inline-block;
+                      margin: 30px 70px;
+                      font-size: 30px;}
+ 
+ 
+ 
+ 
+
+ 
+.cafe{background-image: linear-gradient( #222e72, #726c85);
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;}  
+  
+ 
+ 
+    
+.cafe-imagem{width: 20%;
+                padding: 24px 24px;}     
+ 
+.cafe-texto{padding: 24px 24px; }
+ 
+.cafe-texto-um{font-size: 24px;
+                   padding: 24px 24px;}
+ 
+.cafe-texto-dois{font-size: 24px;
+                    padding: 24px 24px;}
+ 
+.produto-imagem{width: 40%;}
+ 
+.produto-icone{width: 7%;}
+ 
+.produto-div{text-align: center;}
+ 
+.produto-titulo{text-align: center;
+                   font-size: 30px;
+                  padding: 24px 0;}
+ 
+.produto{background-color: rgb(91, 32, 69);
+            color: white;}
+ 
+.produto-todos{display: grid;
+                 grid-template-columns: 33% 34% 33%;}
+
+.rodape{background-color: beige;
+        text-align: center;
+         padding: 24px 24px;}
+
+.rodape-imagem{width: 10%;}
